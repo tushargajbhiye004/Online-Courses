@@ -586,7 +586,12 @@
         "platform" : "youtube"
         "courseLink" : "https://www.youtube.com/playlist?list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK"   },
 
-
+    {
+        "id" : "300",
+        "courseName" : "HTML Tutorial for Beginners",
+        "platform" : "youtube",
+        "courseLink" : "https://youtu.be/HcOc7P5BMi4"
+    },
 
     
 
