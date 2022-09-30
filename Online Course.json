@@ -580,14 +580,29 @@
         "courseLink" : "https://www.youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA"   },
 
 
-{
+    {
         "id" : "5002",
         "courseName" : "Java Tutorials for Beginners",
         "platform" : "youtube"
-        "courseLink" : "https://www.youtube.com/playlist?list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK"   },
-
-
-
-    
+        "courseLink" : "https://www.youtube.com/playlist?list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK"  
+    },
+    {
+        "id" : "109",
+        "courseName" : "Competitive Programming/DSA Course | Hindi",
+        "platform" : "youtube",
+        "courseLink" : "https://youtube.com/playlist?list=PLauivoElc3ggagradg8MfOZreCMmXMmJ-"
+    },
+    {
+        "id" : "110",
+        "courseName" : "C Language Tutorial for Beginners (with Notes & Practice Questions)",
+        "platform" : "youtube",
+        "courseLink" : "https://youtu.be/irqbmMNs2Bo"
+    },
+    {
+        "id" : "111",
+        "courseName" : "HTML Tutorial for Beginners",
+        "platform" : "youtube",
+        "courseLink" : "https://youtu.be/HcOc7P5BMi4"
+    },
 
 ]
